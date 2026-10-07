@@ -31,7 +31,7 @@ python <your-file-name>.py
 
 
 
-![Screenshot 2](IMG-20260625-WA0001.jpg)
+![Screenshot 2](IMG-20260625-WA0004.jpg)
 
 
 
@@ -41,12 +41,12 @@ python <your-file-name>.py
 
 
 
-![Screenshot 4](IMG-20260625-WA0003.jpg)
+![Screenshot 4](IMG-20260625-WA0001.jpg)
 
 
 
 
-![Screenshot 5](IMG-20260625-WA0004.jpg)
+![Screenshot 5](IMG-20260625-WA0003.jpg)
 
 ## Future Improvements
 - Dashboard with daily eye-health stats
