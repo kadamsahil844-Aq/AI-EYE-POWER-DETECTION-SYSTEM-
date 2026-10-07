@@ -26,8 +26,6 @@ python <your-file-name>.py
 3. Press `q` to quit.
 
 ## Screenshots
-
-
 ![(screenshot.jpg)
 IMG-20260625-WA0000.jpg
 IMG-20260625-WA0001.jpg 
