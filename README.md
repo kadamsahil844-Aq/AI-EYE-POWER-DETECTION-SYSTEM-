@@ -28,7 +28,7 @@ python <your-file-name>.py
 ## Screenshots
 
 
-![demo](demo.gif)
+![](screenshot.jpg)
 
 
 
