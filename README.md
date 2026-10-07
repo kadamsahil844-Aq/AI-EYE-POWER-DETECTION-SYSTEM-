@@ -26,12 +26,27 @@ python <your-file-name>.py
 3. Press `q` to quit.
 
 ## Screenshots
-![(screenshot.jpg)
-IMG-20260625-WA0000.jpg
-IMG-20260625-WA0001.jpg 
-IMG-20260625-WA0002.jpg
-IMG-20260625-WA0003.jpg
-IMG-20260625-WA0004.jpg]
+![Screenshot 1](IMG-20260625-WA0000.jpg)
+
+
+
+
+![Screenshot 2](IMG-20260625-WA0001.jpg)
+
+
+
+
+![Screenshot 3](IMG-20260625-WA0002.jpg)
+
+
+
+
+![Screenshot 4](IMG-20260625-WA0003.jpg)
+
+
+
+
+![Screenshot 5](IMG-20260625-WA0004.jpg)
 
 ## Future Improvements
 - Dashboard with daily eye-health stats
