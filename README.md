@@ -28,7 +28,7 @@ python <your-file-name>.py
 ## Screenshots
 
 
-![](screenshot.jpg)
+![IMG-20260625-WA0000.jpg](screenshot.jpg)
 
 
 
