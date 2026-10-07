@@ -28,9 +28,12 @@ python <your-file-name>.py
 ## Screenshots
 
 
-![IMG-20260625-WA0000.jpg](screenshot.jpg)
-
-
+![(screenshot.jpg)
+IMG-20260625-WA0000.jpg
+IMG-20260625-WA0001.jpg 
+IMG-20260625-WA0002.jpg
+IMG-20260625-WA0003.jpg
+IMG-20260625-WA0004.jpg]
 
 ## Future Improvements
 - Dashboard with daily eye-health stats
